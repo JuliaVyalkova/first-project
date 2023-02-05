@@ -1,0 +1,11 @@
+:root {
+    --main-font: 'Roboto', sans-serif;
+    --second-font: 'Montserrat', sans-serif;
+    --supper-pupper-gipper-color: #CDA861;
+}
+
+html, body {
+    font-family: var(--main-font);
+    height: 100%;
+    min-height: 100vh;
+}
